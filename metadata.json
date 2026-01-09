@@ -1,0 +1,5 @@
+{
+  "name": "EON Online Player",
+  "description": "A TV-optimized browser interface for EON IPTV, featuring simplified channel navigation, volume control, and a focus-friendly UI designed for large screens.",
+  "requestFramePermissions": []
+}
